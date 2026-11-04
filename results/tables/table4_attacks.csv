@@ -1,0 +1,6 @@
+Scenario,BFE-PW (ledger) AUROC,BFE-PW (ledger) AUPRC,Uniform ensemble AUROC,Uniform ensemble AUPRC,FedAvg AUROC,FedAvg AUPRC,PW without hash verification AUROC,PW without hash verification AUPRC
+No attack,0.902 ± 0.004,0.301 ± 0.010,0.900 ± 0.004,0.303 ± 0.010,0.902 ± 0.003,0.315 ± 0.012,,
+A1 label flipping,0.902 ± 0.004,0.301 ± 0.010,0.885 ± 0.005,0.286 ± 0.009,0.868 ± 0.011,0.224 ± 0.033,,
+A2 flipping + adversarial attestation,0.902 ± 0.004,0.301 ± 0.010,–,–,–,–,,
+A3 artefact substitution,0.902 ± 0.004,0.301 ± 0.010,0.885 ± 0.005,0.286 ± 0.009,–,–,0.895 ± 0.004,0.287 ± 0.011
+A4 two colluding hospitals,no global model,no global model,0.491 ± 0.012,0.158 ± 0.015,–,–,,

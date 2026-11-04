@@ -1,0 +1,8 @@
+Operation,Calls per run,Gas (mean),Latency ms (mean)
+deploy,1,1147766,191.6
+registerNode,4,77538,98.2
+openRound,13,47959,92.8
+submitModel,52,127584,105.1
+attest,156,78655,127.5
+finalizeRound,13,102853,285.4
+commitGlobal,6,72905,118.1

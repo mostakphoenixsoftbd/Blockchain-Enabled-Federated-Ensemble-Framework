@@ -1,0 +1,8 @@
+Scenario,"Attacker members admitted (of 2), per seed"
+Clean,2 2 2 2 2
+A1 label flip,0 0 0 0 0
+A2 flip + false attestation,0 0 0 0 0
+A4 collusion (C and D),0 0 0 0 0
+A5 partial flip 20%,2 2 2 2 2
+A5 partial flip 40%,0 0 1 0 0
+A6 targeted flip (female deaths),2 2 2 2 2

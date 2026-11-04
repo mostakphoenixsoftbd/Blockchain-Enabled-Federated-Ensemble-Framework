@@ -1,0 +1,12 @@
+numpy==2.3.4
+pandas==2.3.3
+scikit-learn==1.9.1
+xgboost==3.4.1
+torch==2.12.1
+duckdb==2.0.0
+pyarrow==26.0.0
+web3==8.0.0
+eth-tester[py-evm]==0.14.0b1
+py-solc-x==2.0.5
+statsmodels==0.15.0
+matplotlib==3.10.7
