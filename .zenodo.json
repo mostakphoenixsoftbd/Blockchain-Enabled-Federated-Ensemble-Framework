@@ -1,7 +1,7 @@
 {
-  "title": "BFE: blockchain-governed federation of tree ensembles for in-hospital mortality prediction (code)",
+  "title": "A Blockchain-Enabled Federated Ensemble Framework for Privacy-Preserving Mortality Prediction Across Heterogeneous Healthcare Systems (code)",
   "upload_type": "software",
-  "description": "Code for the study 'Blockchain-Governed Federation of Tree Ensembles for In-Hospital Mortality Prediction: Poisoning Resistance, Calibration and Cost in Simulated MIMIC-IV Hospital Consortia'. Hospitals commit SHA-256 digests of locally trained XGBoost and random-forest models to a Solidity smart contract, peers post digest-bound validation AUROCs, and the contract admits models whose median peer AUROC is at least 0.70. Includes comparators, attack scenarios, statistics and figures. No patient data are included; MIMIC-IV is available from PhysioNet to credentialed users.",
+  "description": "Code for the study 'A Blockchain-Enabled Federated Ensemble Framework for Privacy-Preserving Mortality Prediction Across Heterogeneous Healthcare Systems'. Hospitals commit SHA-256 digests of locally trained XGBoost and random-forest models to a Solidity smart contract, peers post digest-bound validation AUROCs, and the contract admits models whose median peer AUROC is at least 0.70. Includes comparators, attack scenarios, statistics and figures. No patient data are included; MIMIC-IV is available from PhysioNet to credentialed users.",
   "creators": [
     {
       "name": "Ahmed, Mostak",

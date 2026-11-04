@@ -1,7 +1,7 @@
-# Blockchain-governed federation of tree ensembles (BFE)
+# Blockchain-Enabled Federated Ensemble Framework (BFE)
 
-Code for the study *Blockchain-Governed Federation of Tree Ensembles for In-Hospital Mortality
-Prediction: Poisoning Resistance, Calibration and Cost in Simulated MIMIC-IV Hospital Consortia*.
+Code for the study *A Blockchain-Enabled Federated Ensemble Framework for Privacy-Preserving
+Mortality Prediction Across Heterogeneous Healthcare Systems*.
 
 Hospitals train XGBoost and random-forest models locally, commit SHA-256 digests of the models to a
 Solidity smart contract (`contracts/FederatedAuditRegistry.sol`), post peer validation AUROCs bound to
